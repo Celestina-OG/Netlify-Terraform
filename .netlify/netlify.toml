@@ -1,0 +1,28 @@
+functionsDirectory = "/Users/celestina.amadi/Self-Development/Hashicorp/Netlify-Terraform/netlify/functions"
+functionsDirectoryOrigin = "ui"
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/celestina.amadi/Self-Development/Hashicorp/Netlify-Terraform/site"
+publishOrigin = "ui"
+functions = "/Users/celestina.amadi/Self-Development/Hashicorp/Netlify-Terraform/netlify/functions"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
